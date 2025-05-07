@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10x;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+    
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    width: 100%;
+    height: 100vh;
+    max-width: 30rem;
+    padding: 1rem;
+}
+.index {
+    background-color: rgb(210, 78, 243);
+    width: 100%;
+    height: 100rem;
+}
